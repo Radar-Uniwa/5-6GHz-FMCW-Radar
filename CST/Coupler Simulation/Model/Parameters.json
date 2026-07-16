@@ -1,0 +1,26 @@
+{
+    "parameters": [
+        {
+            "descr": "paxos tou xalkou",
+            "expr": "0.0432",
+            "name": "copper_w",
+            "value": "0.0432"
+        },
+        {
+            "expr": "10",
+            "name": "Sub_L",
+            "value": "10"
+        },
+        {
+            "expr": "0.17",
+            "name": "Sub_H",
+            "value": "0.17"
+        },
+        {
+            "expr": "0.0175",
+            "name": "Ground_H",
+            "value": "0.0175"
+        }
+    ],
+    "version": 1
+}

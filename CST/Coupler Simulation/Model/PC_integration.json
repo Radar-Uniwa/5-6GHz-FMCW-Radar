@@ -1,0 +1,29 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "copper_w",
+         "type": "float",
+         "value": 0.0432
+      },
+      {
+         "name": "Sub_L",
+         "type": "float",
+         "value": 10.0
+      },
+      {
+         "name": "Sub_H",
+         "type": "float",
+         "value": 0.17
+      },
+      {
+         "name": "Ground_H",
+         "type": "float",
+         "value": 0.0175
+      }
+   ],
+   "outputVariables": []
+}
